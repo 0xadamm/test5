@@ -50,13 +50,13 @@ module.exports = {
 
 Add the @tailwind directives for each Tailwind’s layers to your globals.css file.
 
-```
+```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 ```
 
-# [Install React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+# [Install React Three Fiber & Drei](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 ```bash
 yarn add three @types/three @react-three/fiber
