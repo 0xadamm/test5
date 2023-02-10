@@ -4,10 +4,16 @@ We need to design a product card that features a 3D object and provides an inter
 
 # General Requirements
 
-- Next.js (Server Side Rendering)
-- Typescript
-- Tailwind CSS
-- React Three Fiber (Drei)
-- Deploy on Vercel
+- [Next.js w/ TypeScript](https://nextjs.org/docs/basic-features/typescript)
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/nextjs)
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 # Example Images
+
+## Desktop
+
+![desktop_image](public/readme/desktop_image.png)
+
+## Mobile
+
+![mobile_image](public/readme/mobile_image.png)
