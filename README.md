@@ -8,6 +8,22 @@ We need to design a product card that features a 3D object and provides an inter
 - [Tailwind CSS](https://tailwindcss.com/docs/guides/nextjs)
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
+# Reference Videos
+
+### [Loading GLTF Models](https://www.youtube.com/watch?v=ARW_EiH6HH0&t=1s)
+
+# Example Images
+
+## Desktop
+
+![desktop_image](public/readme/desktop_image.png)
+
+## Mobile
+
+![mobile_image](public/readme/mobile_image.png)
+
+# Instructions if needed
+
 # [Create Next App w/ TypeScript](https://nextjs.org/docs/getting-started)
 
 ```bash
@@ -65,17 +81,3 @@ yarn add three @types/three @react-three/fiber
 ```bash
 yarn add @react-three/drei
 ```
-
-# Reference Videos
-
-### [Loading GLTF Models](https://www.youtube.com/watch?v=ARW_EiH6HH0&t=1s)
-
-# Example Images
-
-## Desktop
-
-![desktop_image](public/readme/desktop_image.png)
-
-## Mobile
-
-![mobile_image](public/readme/mobile_image.png)
